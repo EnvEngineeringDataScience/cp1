@@ -1,0 +1,217 @@
+Pais,Continente,FMIestimado,FMIaño,BMestimado,BMaño
+United States,Americas,26854599,2023,22996100,2021
+China,Asia,19373586,2023,17734063,2021
+Japan,Asia,4409738,2023,4937422,2021
+Germany,Europe,4308854,2023,4223116,2021
+India,Asia,3736882,2023,3173398,2021
+United Kingdom,Europe,3158938,2023,3186860,2021
+France,Europe,2923489,2023,2937473,2021
+Italy,Europe,2169745,2023,2107703,2021
+Canada,Americas,2089672,2023,1988336,2021
+Brazil,Americas,2081235,2023,1608981,2021
+Russia,Europe,2062649,2023,1775800,2021
+South Korea,Asia,1721909,2023,1798534,2021
+Australia,Oceania,1707548,2023,1542660,2021
+Mexico,Americas,1663164,2023,1293038,2021
+Spain,Europe,1492432,2023,1425277,2021
+Indonesia,Asia,1391778,2023,1186093,2021
+Netherlands,Europe,1080880,2023,1018007,2021
+Saudi Arabia,Asia,1061902,2023,833541,2021
+Turkey,Asia,1029303,2023,815272,2021
+Switzerland,Europe,869601,2023,812867,2021
+Taiwan,Asia,790728,2023,,
+Poland,Europe,748887,2023,674048,2021
+Argentina,Americas,641102,2023,491493,2021
+Belgium,Europe,624248,2023,599879,2021
+Sweden,Europe,599052,2023,627438,2021
+Ireland,Europe,594095,2023,498560,2021
+Thailand,Asia,574231,2023,505982,2021
+Norway,Europe,554105,2023,482437,2021
+Israel,Asia,539223,2023,481591,2021
+Singapore,Asia,515548,2023,396987,2021
+Austria,Europe,515199,2023,477083,2021
+Nigeria,Africa,506601,2023,440777,2021
+United Arab Emirates,Asia,498978,2023,358869,2021
+Vietnam,Asia,449094,2023,362638,2021
+Malaysia,Asia,447026,2023,372701,2021
+Philippines,Asia,440901,2023,394086,2021
+Bangladesh,Asia,420516,2023,416265,2021
+Denmark,Europe,405626,2023,397104,2021
+South Africa,Africa,399015,2023,419946,2021
+Hong Kong,Asia,382854,2023,368139,2021
+Egypt,Africa,378110,2023,404143,2021
+Pakistan,Asia,376493,2022,346343,2021
+Iran,Asia,367970,2023,359713,2021
+Chile,Americas,358557,2023,317059,2021
+Romania,Europe,348902,2023,284088,2021
+Colombia,Americas,334689,2023,314323,2021
+Czech Republic,Europe,330483,2023,282341,2021
+Finland,Europe,301670,2023,299155,2021
+Peru,Americas,268235,2023,223250,2021
+Iraq,Asia,267893,2023,207889,2021
+Portugal,Europe,267721,2023,249887,2021
+New Zealand,Oceania,251969,2023,249992,2021
+Kazakhstan,Asia,245695,2023,190814,2021
+Greece,Europe,239300,2023,216241,2021
+Qatar,Asia,219570,2023,179571,2021
+Algeria,Africa,206007,2023,167983,2021
+Hungary,Europe,188505,2023,182281,2021
+Kuwait,Asia,164713,2023,105960,2020
+Ethiopia,Africa,156083,2023,111271,2021
+Ukraine,Europe,148712,2023,200086,2021
+Morocco,Africa,138781,2023,132725,2021
+Slovakia,Europe,127533,2023,114871,2021
+Ecuador,Americas,121291,2023,106166,2021
+Dominican Republic,Americas,121289,2023,94244,2021
+Puerto Rico,Americas,120838,2023,106526,2021
+Kenya,Africa,118130,2023,110347,2021
+Angola,Africa,117877,2023,72547,2021
+Cuba,Americas,,,107352,2020
+Oman,Asia,104902,2023,85869,2021
+Guatemala,Americas,102309,2023,85986,2021
+Bulgaria,Europe,100635,2023,80271,2021
+Venezuela,Americas,96628,2023,482359,2014
+Uzbekistan,Asia,92332,2023,69239,2021
+Luxembourg,Europe,86971,2023,86711,2021
+Tanzania,Africa,85421,2023,67775,2021
+Turkmenistan,Asia,82649,2023,45231,2019
+Croatia,Europe,78881,2023,67838,2021
+Lithuania,Europe,78346,2023,65504,2021
+Costa Rica,Americas,77777,2023,64282,2021
+Uruguay,Americas,77313,2023,59320,2021
+Panama,Americas,77257,2023,63605,2021
+Ivory Coast,Africa,77047,2023,69765,2021
+Sri Lanka,Asia,75296,2022,84519,2021
+Serbia,Europe,73961,2023,63068,2021
+Belarus,Europe,73543,2023,68219,2021
+Azerbaijan,Asia,70030,2023,54622,2021
+DR Congo,Africa,69474,2023,53959,2021
+Slovenia,Europe,68108,2023,61526,2021
+Ghana,Africa,66622,2023,77594,2021
+Myanmar,Asia,63988,2023,65068,2021
+Jordan,Asia,52061,2023,45244,2021
+Tunisia,Africa,49815,2023,46840,2021
+Uganda,Africa,49792,2023,40435,2021
+Cameroon,Africa,48625,2023,45239,2021
+Latvia,Europe,47398,2023,38873,2021
+Sudan,Africa,46705,2023,34326,2021
+Libya,Africa,46297,2023,41880,2021
+Bolivia,Americas,46097,2023,40408,2021
+Bahrain,Asia,44870,2023,38869,2021
+Paraguay,Americas,42820,2023,38987,2021
+Nepal,Asia,42097,2023,36289,2021
+Estonia,Europe,41551,2023,36263,2021
+Macau,Asia,35841,2023,29905,2021
+El Salvador,Americas,33752,2023,28737,2021
+Honduras,Americas,32860,2023,28489,2021
+Papua New Guinea,Oceania,31362,2023,26594,2021
+Senegal,Africa,31221,2023,27625,2021
+Cyprus,Asia,30864,2023,27719,2021
+Cambodia,Asia,30628,2023,26961,2021
+Zimbabwe,Africa,29931,2023,26218,2021
+Zambia,Africa,29272,2023,21203,2021
+Iceland,Europe,28625,2023,25459,2021
+Bosnia and Herzegovina,Europe,28488,2023,22572,2021
+Trinidad and Tobago,Americas,28223,2023,21392,2021
+Georgia,Europe,27947,2023,18700,2021
+Haiti,Americas,26580,2023,20944,2021
+Lebanon,Asia,24494,2020,18077,2021
+Armenia,Asia,23725,2023,13861,2021
+Guinea,Africa,23330,2023,15851,2021
+Burkina Faso,Africa,21076,2023,19738,2021
+Mali,Africa,20776,2023,19144,2021
+Gabon,Africa,20330,2023,18269,2021
+Albania,Europe,20177,2023,18260,2021
+Afghanistan,Asia,20136,2020,14787,2021
+Mozambique,Africa,19909,2023,16096,2021
+Palestine,Asia,19698,2022,18037,2021
+Botswana,Africa,19572,2023,17614,2021
+Yemen,Asia,19529,2023,21062,2021
+Malta,Europe,19405,2023,17190,2021
+Benin,Africa,19236,2023,17786,2021
+Nicaragua,Americas,17287,2023,14013,2021
+Jamaica,Americas,17254,2023,13638,2021
+Mongolia,Asia,16908,2023,15098,2021
+Niger,Africa,16617,2023,14951,2021
+Guyana,Americas,16309,2023,7409,2021
+Brunei,Asia,15988,2023,14007,2021
+Madagascar,Africa,15969,2023,14637,2021
+North Korea,Asia,,,,
+Moldova,Europe,15829,2023,13679,2021
+Syria,Asia,,,11080,2020
+North Macedonia,Europe,15278,2023,13879,2021
+Equatorial Guinea,Africa,15099,2023,12269,2021
+Mauritius,Africa,14570,2023,11157,2021
+Bahamas,Americas,14114,2023,11209,2021
+Laos,Asia,14091,2023,18827,2021
+Namibia,Africa,13486,2023,12236,2021
+Rwanda,Africa,13149,2023,11070,2021
+Congo,Africa,13031,2023,12524,2021
+Tajikistan,Asia,12796,2023,8746,2021
+Kyrgyzstan,Asia,12309,2023,8543,2021
+Chad,Africa,11962,2023,11780,2021
+Malawi,Africa,11277,2023,12627,2021
+Mauritania,Africa,10966,2023,8228,2021
+New Caledonia,Oceania,,,10071,2021
+Kosovo,Europe,9990,2023,9007,2021
+Togo,Africa,9001,2023,8413,2021
+Somalia,Africa,8738,2023,7293,2021
+Monaco,Europe,,,8596,2021
+Bermuda,Americas,,,7081,2021
+Montenegro,Europe,7027,2023,5809,2021
+South Sudan,Africa,7012,2023,11998,2015
+Maldives,Asia,7004,2023,4890,2021
+Liechtenstein,Europe,,,6114,2020
+Guam,Oceania,,,6123,2021
+Barbados,Americas,6117,2023,4901,2021
+French Polynesia,Oceania,,,6055,2021
+Cayman Islands,Americas,,,5898,2021
+Fiji,Oceania,5385,2023,4592,2021
+Eswatini,Africa,4824,2023,4941,2021
+Liberia,Africa,4375,2023,3487,2021
+Djibouti,Africa,3916,2023,3371,2021
+Andorra,Europe,3669,2023,3330,2021
+Aruba,Americas,3633,2023,3126,2021
+Sierra Leone,Africa,3520,2023,4200,2021
+Suriname,Americas,3470,2023,2862,2021
+Burundi,Africa,3234,2023,2902,2021
+Belize,Americas,3162,2023,1790,2021
+Greenland,Americas,,,3076,2020
+Central African Republic,Africa,2736,2023,2517,2021
+Curaçao,Americas,,,2700,2021
+Bhutan,Asia,2683,2023,2540,2021
+Eritrea,Africa,2666,2023,2065,2011
+Lesotho,Africa,2584,2023,2519,2021
+Cape Verde,Africa,2468,2023,1936,2021
+Gambia,Africa,2277,2023,2078,2021
+Saint Lucia,Americas,2262,2023,1765,2021
+East Timor,Asia,1988,2023,1959,2021
+Seychelles,Africa,1950,2023,1320,2021
+Guinea-Bissau,Africa,1887,2023,1639,2021
+Antigua and Barbuda,Americas,1864,2023,1471,2021
+San Marino,Europe,1807,2023,1545,2020
+Zanzibar,Africa,,,,
+Solomon Islands,Oceania,1701,2023,1645,2021
+British Virgin Islands,Americas,,,,
+Comoros,Africa,1348,2023,1328,2021
+Grenada,Americas,1274,2023,1122,2021
+Northern Mariana Islands,Oceania,,,1182,2019
+Vanuatu,Oceania,1064,2023,984,2021
+Saint Kitts and Nevis,Americas,1052,2023,976,2021
+Saint Vincent and the Grenadines,Americas,1039,2023,890,2021
+Turks and Caicos Islands,Americas,,,943,2021
+Samoa,Oceania,898,2023,788,2021
+Sint Maarten,Americas,,,1186,2018
+American Samoa,Oceania,,,709,2021
+Dominica,Americas,681,2023,546,2021
+São Tomé and Príncipe,Africa,625,2023,547,2021
+Tonga,Oceania,541,2023,469,2021
+Micronesia,Oceania,456,2023,404,2021
+Marshall Islands,Oceania,291,2023,249,2021
+Cook Islands,Oceania,,,,
+Palau,Oceania,262,2023,218,2021
+Anguilla,Americas,,,,
+Kiribati,Oceania,248,2023,207,2021
+Nauru,Oceania,151,2023,133,2021
+Montserrat,Americas,,,,
+Tuvalu,Oceania,65,2023,63,2021
